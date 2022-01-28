@@ -1,0 +1,39 @@
+body {
+    background-color: #E7FBBE;
+}
+h1{
+    color:#95CD41;
+}
+h2{
+    color:#95CD41;
+}
+hr {
+    border-style: dotted none none;
+    border-color:#FFFDDE;
+    border-width:0.6em;
+    width: 7em;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-style: solid;
+    width: 701px;
+    height:501px;
+    border-width:0.6em;
+    border-color:#FFFDDE;
+    border-radius: 20px;
+}
+.btn{
+    margin: 0 1em 0 98em;
+    border-style:inset;
+   background-color:#E7FBBE;
+    border-color:#95CD41;
+    border-width: medium;
+}
+.link{
+    color:#95CD41;
+    font-size:15px;
+    text-decoration:underline;
+}
